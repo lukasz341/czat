@@ -4,6 +4,7 @@
   "description": "czat",
   "main": "index.js",
   "scripts": {
+    "build": "set NODE_ENV=production && webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lukasz",

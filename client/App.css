@@ -44,4 +44,5 @@ body {
     flex-direction: column;
     width: 75vw;
     flex: 1;
+    box-sizing: border-box;
 }
